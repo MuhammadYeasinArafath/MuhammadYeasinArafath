@@ -3,6 +3,7 @@
 <img src="https://github.com/MuhammadYeasinArafath/MuhammadYeasinArafath/blob/main/FINAL%20JOB.png" alt="banner"></img>
 <br>
 
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadyeasinarafath&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadyeasinarafath" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammadyeasinarafath" alt="muhammadyeasinarafath" /></a> </p>
@@ -70,7 +71,9 @@
 - ⚡ Fun fact **Sometime I made silly mistakes while programming, which makes me suffer a lot.**
 
 -  🏢👨‍💻 **I am available to start working on your project. You can Hire me. So let's connect over a Coffee?**
-<p align="center"> <a href='http://ionicabizau.github.io/github-profile-languages/?user=MuhammadYeasinArafath'>See All Programming Languages Used By Me.</a> </p>
+<p align="center"> <a href="http://ionicabizau.github.io/github-profile-languages/?user=%2540MuhammadYeasinArafath">See All Programming Languages Used By Me.</a></p>
+  
+
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=MuhammadYeasinArafath)  
 <br>
 
@@ -100,11 +103,12 @@
 
 <br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadyeasinarafath&show_icons=true&locale=en&layout=compact" alt="muhammadyeasinarafath" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadYeasinArafath)](https://github.com/anuraghazra/github-readme-stats)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammadyeasinarafath&show_icons=true&locale=en" alt="muhammadyeasinarafath" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadyeasinarafath&" alt="muhammadyeasinarafath" /></p>
+
 ![GitHub metrics](https://metrics.lecoq.io/MuhammadYeasinArafath)  
 <br>
 <h3 align="left">Support:</h3>
