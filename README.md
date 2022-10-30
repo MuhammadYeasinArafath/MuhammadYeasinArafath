@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Muhammad Yeasin Arafath</h1>
 <h3 align="center">I AM A FULL-STACK WEB DEVELOPER, ANDROID DEVELOPER, WORDPRESS-SHOPIFY-WIX DEVELOPER, DIGITAL MARKETER, AND CONTENT CREATOR.</h3>
-<img src="https://github.com/MuhammadYeasinArafath/MuhammadYeasinArafath/blob/main/FINAL%20JOB.png" alt="banner"></img>
+<img src="https://github.com/MuhammadYeasinArafath/MuhammadYeasinArafath/blob/main/Banner.png" alt="banner"></img>
 <br>
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
