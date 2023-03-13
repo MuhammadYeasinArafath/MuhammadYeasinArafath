@@ -58,7 +58,7 @@
 
 - 🤝 I’m looking for help with [programming-related stuff.](https://github.com/MuhammadYeasinArafath)
 
-- 👨‍💻 All of my projects are available at [www.mdyeasinarafathportfolio.com](www.mdyeasinarafathportfolio.com)
+- 👨‍💻 All of my projects are available at [https://yeasinarafathportfolio.xyz/](https://yeasinarafathportfolio.xyz/)
 
 - 📝 I regularly write articles on [https://yeasinarafathportfolio.xyz/](https://yeasinarafathportfolio.xyz/)
 
@@ -66,11 +66,11 @@
 
 - 📫 How to reach me **mdyeasinarafathofficial@gmail.com**
 
-- 📄 Know about my experiences [www.mdyeasinarafathportfolio.com](www.mdyeasinarafathportfolio.com)
+- 📄 Know about my experiences [https://yeasinarafathportfolio.xyz/](https://yeasinarafathportfolio.xyz/)
 
 - ⚡ Fun fact **Sometime I made silly mistakes while programming, which makes me suffer a lot.**
 
--  🏢👨‍💻 **I am available to start working on your project. You can Hire me. So let's connect over a Coffee?**
+-  🏢👨‍💻 **I am available to start working on your project. You can Hire me. So [let's connect over a Coffee?] (https://yeasinarafathportfolio.xyz/)**
 <p align="center"> <a href="http://ionicabizau.github.io/github-profile-languages/?user=%2540MuhammadYeasinArafath">See All Programming Languages Used By Me.</a></p>
   
 
