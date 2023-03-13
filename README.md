@@ -60,7 +60,7 @@
 
 - 👨‍💻 All of my projects are available at [www.mdyeasinarafathportfolio.com](www.mdyeasinarafathportfolio.com)
 
-- 📝 I regularly write articles on [www.mdyeasinarafath.com](www.mdyeasinarafath.com)
+- 📝 I regularly write articles on [https://yeasinarafathportfolio.xyz/](https://yeasinarafathportfolio.xyz/)
 
 - 💬 Ask me about **programming related stuffs.**
 
