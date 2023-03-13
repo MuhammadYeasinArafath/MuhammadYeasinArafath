@@ -70,7 +70,7 @@
 
 - ⚡ Fun fact **Sometime I made silly mistakes while programming, which makes me suffer a lot.**
 
--  🏢👨‍💻 **I am available to start working on your project. You can Hire me. So [https://yeasinarafathportfolio.xyz/] (let's connect over a Coffee?)**
+-  🏢👨‍💻 **I am available to start working on your project. You can Hire me. So let's connect over a Coffee?**
 <p align="center"> <a href="http://ionicabizau.github.io/github-profile-languages/?user=%2540MuhammadYeasinArafath">See All Programming Languages Used By Me.</a></p>
   
 
