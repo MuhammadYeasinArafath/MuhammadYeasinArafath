@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Muhammad Yeasin Arafath</h1>
-<h3 align="center">I AM A FULL-STACK WEB DEVELOPER, ANDROID DEVELOPER, WORDPRESS-SHOPIFY-WIX DEVELOPER, DIGITAL MARKETER, AND CONTENT CREATOR.</h3>
-<img src="https://github.com/MuhammadYeasinArafath/MuhammadYeasinArafath/blob/main/Banner.png" alt="banner"></img>
+<h3 align="center">I AM A FRONT END WEB DEVELOPER, ANDROID DEVELOPER, WORDPRESS-SHOPIFY DEVELOPER, DIGITAL MARKETER, AND CONTENT CREATOR.</h3>
+<img src="https://github.com/MuhammadYeasinArafath/MuhammadYeasinArafath/blob/main/123.jpg" alt="banner"></img>
 <br>
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
@@ -11,7 +11,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadyeasinarafath&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadyeasinarafath" /> </p>
 
 <h3 align="center">Skills:<h3>
-<p align="center"><h4 align="center">Full-Stack Web Development:</h4><p align="center"> 
+<p align="center"><h4 align="center">Full Stack Web Development:</h4><p align="center"> 
   <h6>Front-end:</h6> html5, &nbsp; css3, &nbsp; bootstrap5, &nbsp; pure javascript, &nbsp; react (front-end javaScript library). 
   <h6>Back-end:</h6> Coming Soon. 
 </p>
@@ -23,18 +23,16 @@
 </p>
 </p>
 
-<p align="center"><h4 align="center">WordPress Development:</h4><p align="center">Coming Soon. </p></p>
+<p align="center"><h4 align="center">WordPress Development:</h4><p align="center">I am a certified WordPress developer or designer. Here is the certification link: https://drive.google.com/file/d/1WFY02Cjvfa2RJPK_eyLwBYKX7rhurOBo/view?usp=drive_link </p></p>
 
-<p align="center"><h4 align="center">Shopify Development:</h4><p align="center">Coming Soon. </p></p>
+<p align="center"><h4 align="center">Shopify Development:</h4><p align="center">I am a certified Shopify developer or designer. Here is the certification link: https://drive.google.com/file/d/1WFY02Cjvfa2RJPK_eyLwBYKX7rhurOBo/view?usp=drive_link </p></p>
 
-<p align="center"><h4 align="center">Wix Development:</h4><p align="center">Coming Soon. </p></p>
-
-<p align="center"><h4 align="center">Digital Marketing:</h4><p align="center">Coming Soon. </p></p>
+<p align="center"><h4 align="center">Digital Marketing:</h4><p align="center">I am a certified digital marketer. Here is the certification link: https://drive.google.com/file/d/1729xLZCWT6MHWR_tbwElzNlwFPwa85jQ/view?usp=drive_link </p></p>
 
 <p align="center"><h4 align="center">Programming Language, Framework & Libraries I Have Knowledge Of:</h4><p align="center">
-  <h6>Pure Programming Language:</h6> Coming Soon. 
+  <h6>Pure Programming Language:</h6> html 5, css 3, javascript. 
   <h6>Framework:</h6> Coming Soon. 
-  <h6>Library:</h6> Coming Soon. 
+  <h6>Library:</h6> React JS. 
 </p>
 </p>
 <p align="center"><h4 align="center">Communication Skills:</h4><p align="center">
